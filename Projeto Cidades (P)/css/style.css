@@ -1,0 +1,53 @@
+@font-face {
+  font-family: poppins-bold;
+  src: url(poppins-bold-webfont.woff2);
+  font-weight: bold;
+}
+@font-face {
+  font-family: poppins-regular;
+  src: url(poppins-regular-webfont.woff2);
+  font-weight: normal;
+}
+h1 {
+  font-family: poppins-bold;
+  color: aliceblue;
+}
+h2 {
+  font-family: poppins-regular;
+  color: aliceblue;
+}
+p {
+  font-family: poppins-regular;
+  color: rgb(196, 202, 209);
+}
+img {
+  border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  border-image: linear-gradient(50deg, #866caf, #ffb9ff) 1;
+}
+body {
+  background-image: linear-gradient(#2c2f48, #111320);
+}
+div {
+  text-align: center;
+}
+div.button {
+  margin: 20px;
+}
+a.button {
+  background-color: #111320;
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: #866caf;
+  border-style: solid;
+  text-decoration: none;
+  font-family: poppins-bold;
+}
+hr {
+  height: 1px;
+  background-color: aliceblue;
+  border: none;
+}
