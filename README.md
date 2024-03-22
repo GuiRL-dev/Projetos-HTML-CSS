@@ -1,2 +1,2 @@
-# PROJETOS DO JAJA
-Projetos do nosso querido jaja
+# PROJETOS DE HTML CSS
+Projetos de HTML e CSS
